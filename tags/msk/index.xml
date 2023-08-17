@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sm-santomartino.github.io/tags/msk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Systematic review of artificial intelligence development and evaluation for MRI diagnosis of knee ligament or meniscus tears.</title>
+      <link>https://sm-santomartino.github.io/publication/knee_lig__sr/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/publication/knee_lig__sr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Artificial Intelligence (AI) for Fracture Diagnosis: An Overview of Current Products and Considerations for Clinical Adoption.</title>

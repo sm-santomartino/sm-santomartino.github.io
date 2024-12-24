@@ -7,10 +7,82 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sm-santomartino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://sm-santomartino.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CXR</title>
+      <link>https://sm-santomartino.github.io/tags/cxr/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/cxr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSK</title>
+      <link>https://sm-santomartino.github.io/tags/msk/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/msk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural language processing</title>
+      <link>https://sm-santomartino.github.io/tags/natural-language-processing/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiography</title>
+      <link>https://sm-santomartino.github.io/tags/radiography/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/radiography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network</title>
+      <link>https://sm-santomartino.github.io/tags/convolutional-neural-network/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/convolutional-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand</title>
+      <link>https://sm-santomartino.github.io/tags/hand/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pediatrics</title>
+      <link>https://sm-santomartino.github.io/tags/pediatrics/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/tags/pediatrics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ACL</title>
@@ -18,15 +90,6 @@
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://sm-santomartino.github.io/tags/acl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://sm-santomartino.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://sm-santomartino.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
@@ -45,15 +108,6 @@
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://sm-santomartino.github.io/tags/mri-knee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MSK</title>
-      <link>https://sm-santomartino.github.io/tags/msk/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://sm-santomartino.github.io/tags/msk/</guid>
       <description></description>
     </item>
     

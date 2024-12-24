@@ -7,71 +7,98 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sm-santomartino.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Pitfalls and Best Practices in Evaluation of Algorithmic Biases in Radiology.</title>
+      <link>https://sm-santomartino.github.io/publication/10_pitfalls_best_practices/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/publication/10_pitfalls_best_practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the performance and bias of natural language processing tools in labeling chest radiograph reports.</title>
+      <link>https://sm-santomartino.github.io/publication/09_nlp/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/publication/09_nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Robustness of a Deep Learning Bone Age Algorithm to Clinical Image Variation Using Computational Stress Testing.</title>
+      <link>https://sm-santomartino.github.io/publication/08_boneage_stress_test/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://sm-santomartino.github.io/publication/08_boneage_stress_test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Systematic review of artificial intelligence development and evaluation for MRI diagnosis of knee ligament or meniscus tears.</title>
-      <link>https://sm-santomartino.github.io/publication/knee_lig__sr/</link>
+      <link>https://sm-santomartino.github.io/publication/07_knee_lig__sr/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sm-santomartino.github.io/publication/knee_lig__sr/</guid>
+      <guid>https://sm-santomartino.github.io/publication/07_knee_lig__sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance and usability of code-free deep learning for chest radiograph classification, object detection, and segmentation.</title>
-      <link>https://sm-santomartino.github.io/publication/automl/</link>
+      <link>https://sm-santomartino.github.io/publication/06_automl/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sm-santomartino.github.io/publication/automl/</guid>
+      <guid>https://sm-santomartino.github.io/publication/06_automl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalizability and Bias in a Deep Learning Pediatric Bone Age Prediction Model using Hand Radiographs.</title>
-      <link>https://sm-santomartino.github.io/publication/boneage_bias/</link>
+      <link>https://sm-santomartino.github.io/publication/05_boneage_bias/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sm-santomartino.github.io/publication/boneage_bias/</guid>
+      <guid>https://sm-santomartino.github.io/publication/05_boneage_bias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code and Data Sharing Practices in the Radiology AI Literature. A Meta-Research Study.</title>
-      <link>https://sm-santomartino.github.io/publication/codesharing/</link>
+      <link>https://sm-santomartino.github.io/publication/04_codesharing/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sm-santomartino.github.io/publication/codesharing/</guid>
+      <guid>https://sm-santomartino.github.io/publication/04_codesharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic Radiology Departments Should Lead Artificial Intelligence Initiatives Academic Radiology.</title>
-      <link>https://sm-santomartino.github.io/publication/ai_initiatives/</link>
+      <link>https://sm-santomartino.github.io/publication/03_ai_initiatives/</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sm-santomartino.github.io/publication/ai_initiatives/</guid>
+      <guid>https://sm-santomartino.github.io/publication/03_ai_initiatives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence (AI) for Fracture Diagnosis: An Overview of Current Products and Considerations for Clinical Adoption.</title>
-      <link>https://sm-santomartino.github.io/publication/fx_diganosis/</link>
+      <link>https://sm-santomartino.github.io/publication/02_fx_diganosis/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sm-santomartino.github.io/publication/fx_diganosis/</guid>
+      <guid>https://sm-santomartino.github.io/publication/02_fx_diganosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic Review of Radiologist and Medical Student Attitudes on the Role and Impact of AI in Radiology Academic Radiology.</title>
-      <link>https://sm-santomartino.github.io/publication/attitudes_sr/</link>
+      <link>https://sm-santomartino.github.io/publication/01_attitudes_sr/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sm-santomartino.github.io/publication/attitudes_sr/</guid>
+      <guid>https://sm-santomartino.github.io/publication/01_attitudes_sr/</guid>
       <description></description>
     </item>
     
